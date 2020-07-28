@@ -1,2 +1,2 @@
-# Escolhendo-um-n-mero
-A simple javascript game
+# Escolhendo um numero
+A simple javascript game.
